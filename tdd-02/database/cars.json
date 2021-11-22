@@ -1,0 +1,23 @@
+[
+  {
+     "id":"f8543534-faca-44ea-b64f-57eee782ff9f",
+     "name":"Grand Cherokee",
+     "releaseYear":2021,
+     "available":true,
+     "gasAvailable":true
+  },
+  {
+     "id":"fe930497-7a5a-4d61-99e5-0924dc238585",
+     "name":"Durango",
+     "releaseYear":2021,
+     "available":true,
+     "gasAvailable":true
+  },
+  {
+     "id":"66f0f2d9-8bf9-4297-8373-48d54a8688f4",
+     "name":"Malibu",
+     "releaseYear":2021,
+     "available":true,
+     "gasAvailable":true
+  }
+]
